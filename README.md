@@ -1,17 +1,22 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm SHREYAS PRASHANT URANKAR</h1>
+
+<h1>💫 About Me:</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<h3>📚 I’m proficient in Frontend Development and Backend Development</h3>
+<h3>🌱 I’m currently learning Full Stack Web Development</h3>
+<h3>⚡ Fun fact I am funny</h3>
+- 📫 How to reach me **urankarshreyas@gmail.com**
+- 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
+
+<h1>🌐 Socials:</h1>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shreyas.12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-urankar-1560a2284/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-urankar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-urankar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-urankar" alt="shreyas-urankar" /></a> </p>
 
-- 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me **urankarshreyas@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
