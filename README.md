@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I am SHREYAS PRASHANT URANKAR</h1>
+<h1>Hi 👋, I am SHREYAS PRASHANT URANKAR</h1>
 
 ## 💫 About Me:
 <h3 align="center">I am passionate Software Engineer from India</h3>
-<h3>📚 I’m proficient in *Frontend Development* and *Backend Development*</h3>
-<h3>🌱 I’m currently learning *Full Stack Web Development*</h3>
-<h3>⚡ Fun fact **I am funny*</h3>
+<h3>📚 I’m proficient in Frontend Development and Backend Development</h3>
+<h3>🌱 I’m currently learning Full Stack Web Development</h3>
+<h3>⚡ Fun fact I am funny</h3>
 <h3 align="left">Connect with me:urankarshreyas@gmail.com</h3>
 
 ## 🌐 Socials:
