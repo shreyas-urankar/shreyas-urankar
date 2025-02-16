@@ -7,6 +7,7 @@
 <h3>🌱 I’m currently learning Full Stack Web Development</h3>
 <h3>⚡ Fun fact I am funny</h3>
 <h3 align="left">Connect with me:urankarshreyas@gmail.com</h3>
+- 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shreyas.12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-urankar-1560a2284/)
@@ -16,11 +17,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas-urankar" alt="shreyas-urankar" /></a> </p>
 
-- 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
-
 <p align="left">
+  
 <a href="https://linkedin.com/in/www.linkedin.com/in/shreyas-urankar-1560a2284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyas-urankar-1560a2284" height="30" width="40" /></a>
 <a href="https://instagram.com/_shreyas.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shreyas.12" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/urankarshreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="urankarshreyas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyas_urankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyas_urankar" height="30" width="40" /></a>
 </p>
