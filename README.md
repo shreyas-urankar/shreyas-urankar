@@ -6,7 +6,7 @@
 <h3>📚 I’m proficient in Frontend Development and Backend Development</h3>
 <h3>🌱 I’m currently learning Full Stack Web Development</h3>
 <h3>⚡ Fun fact I am funny</h3>
-<h3 align="left">Connect with me:urankarshreyas@gmail.com</h3>
+- 📫 How to reach me **urankarshreyas@gmail.com**
 - 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
 
 ## 🌐 Socials:
