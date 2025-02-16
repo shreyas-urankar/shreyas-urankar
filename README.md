@@ -3,8 +3,14 @@
 
 ## 💫 About Me:
 <h3 align="center">I am passionate Software Engineer from India</h3>
-<h3>📚 I’m proficient in **Frontend Development** and **Backend Development**</h3>
-<h3>🌱 I’m currently learning **Full Stack Web Development**</h3>
+<h3>📚 I’m proficient in *Frontend Development* and *Backend Development*</h3>
+<h3>🌱 I’m currently learning *Full Stack Web Development*</h3>
+<h3>⚡ Fun fact **I am funny*</h3>
+<h3 align="left">Connect with me:urankarshreyas@gmail.com</h3>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shreyas.12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-urankar-1560a2284/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-urankar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-urankar" /> </p>
 
@@ -12,11 +18,6 @@
 
 - 🔭 I’m currently working on [Secure Health Care Project, Laptop Rental Project, Wellness Program.](https://github.com/shreyas-urankar/HealthDefenderProject.git)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shreyas-urankar-1560a2284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyas-urankar-1560a2284" height="30" width="40" /></a>
 <a href="https://instagram.com/_shreyas.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shreyas.12" height="30" width="40" /></a>
