@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii)]
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFza293NDY1cHNzZDV0czlpdDVmN2Q4anI5MjV3NWk1aGlsbzkycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)]
 <h1 align="center">Hi 👋, I'm SHREYAS PRASHANT URANKAR</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2DJHL4x3HfpI_zBMY0ykjd&ust=1739811868897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOipy7XWyIsDFQAAAAAdAAAAABAR">
